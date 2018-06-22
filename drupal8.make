@@ -1,5 +1,6 @@
 api = 2.0
 core = 8.x
+projects[drupal][version] = 8.5.3
 
 projects[address][version] = 1.3
 projects[admin_toolbar][version] = 1.22
